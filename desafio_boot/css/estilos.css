@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.hero{
+    background-image: url(../photos/fondo.jpg);
+    height: 90vh;
+    background-position: bottom;
+    
+}
+
+.btn-primary{
+    background-color: darkcyan;
+    border: 0;
+}
